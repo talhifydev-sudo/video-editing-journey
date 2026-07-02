@@ -39,5 +39,3 @@ Stage 0.1 — Learn Editing Theory (Day 2)
 ---
 
 *Next: Day 3 — "Editing Theory Primer" (Videomaker)*
-
-*Next: Day 3 — "Editing Theory Primer" (Videomaker)*
