@@ -18,6 +18,7 @@ Month 1: Editor Mindset + CapCut Foundations
 
 ## Progress Log
 - Day 1 (30 Jun 2026): Editing Theory — Completed ✅
+- Day 2 (03 Jul 2026): What Is Film Editing? — Completed ✅
 
 ## Connect
 - FaceBook: (https://www.facebook.com/profile.php?id=61590471341298)
